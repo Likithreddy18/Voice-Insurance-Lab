@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+langchain
+langgraph
+vocode
+posthog
+llama-index
+openai
+twilio
+python-dotenv
+pandas
+numpy
+scikit-learn
+streamlit
